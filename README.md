@@ -23,7 +23,8 @@ Dans cette section, vous allez ajouter les composants nécessaires permettant de
 - Utiliser les Préférences pour sauvegarder le choix de l'utilisateur (memory ou database). Quand l'utilisateur choisit un mode dans le menu (memory ou database), sauvegarder son choix dans les préférences afin qu'au redémarrage de l'application son choix soit sauvegardé.
 
 ## Etape 4: Mise en place de la synchronisation avec l'API Rest
-Pour cela, vous devez utiliser une API (Node JS) mise à votre disposition. Cette API contient les actions CRUD sur les utilisateurs. Vous devrez le modifier pour ajotuer les actions supplémentaires comme l'ajout en favoris ext. 
+Pour cela, vous devez utiliser une API (Node JS) mise à votre disposition. Cette API contient les actions CRUD sur les utilisateurs. Vous devrez le modifier pour ajouter les actions supplémentaires comme l'ajout en favoris etc. 
+Lien vers le projet Node [https://github.com/eamosse/neighbors_api]
 Pour commencer : 
 - Forker le repository git pour en créer une copie pour votre groupe.
 - Modifier le README du projet de l'application Android en y ajoutant le lien vers votre repository de l'API
@@ -39,7 +40,6 @@ A ce stade, votre application dispose de 3 sources de données : mémoire, local
 4. Ajouter une 4e source, en synchronisant vos données avec une base de données Firebase
 5. Mettre en place une authentification en utilisant Firebase
 6. Développer une fonctionnalité de chat en utilisant Firebase
-
 
 # Contraintes :
 - Repartir des sources du projet précédent
