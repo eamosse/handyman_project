@@ -1,5 +1,8 @@
-# Sauvegarder les utilisateurs dans une base de données locales (Room) et une API
-Dans ce TP, vous allez améliorer la version précédente de l'application en y ajoutant un mécanisme de sauvegarde des données dans une base de données locale et une API. 
+# Projet final
+Dans ce projet,  vous allez compléter l'application commencée en cours en y ajoutant des fonctionnalités de persistance dans des divers types de bases de données telles que : 
+- Room : Base de données local
+- API : Serveur Node JS
+- Firebase
 
 ## Concepts et notions envisagés
 - Room
